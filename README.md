@@ -11,6 +11,9 @@
 * MATH 402: Advanced Analysis I (UMKC) - A
 * MATH 4330: Introduction to the Theory of Numbers (Current)
 
+Munkres Topology Chapters 1-4 (Individual)
+Gallian Contemporary Abstract Algebra (Individual)
+
 ## Planned Coursework
 
 * MATH 8631: Harmonic Analysis II (Spring 27)
