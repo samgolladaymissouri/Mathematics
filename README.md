@@ -13,6 +13,7 @@
 
 * Munkres Topology Chapters 1-4 (Individual)
 * Gallian Contemporary Abstract Algebra (Individual)
+* Axler Linear Algebra Done Right (Individual)
 
 ## Planned Coursework
 
