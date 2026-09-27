@@ -20,3 +20,7 @@
 * MATH 8421: Real Variables II (Spring 27)
 * MATH 8655: General Topology (Fall 27)
 * MATH 8410: Algebra I (Fall 27)
+
+## Papers
+* Evaluating the Reasoning Abilities of LLMs on Underrepresented Mathematics Competition Problems (With Bani-Yaghoub, PhD, UMKC)
+  ** https://arxiv.org/abs/2512.24505
