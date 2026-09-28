@@ -19,9 +19,14 @@
 
 * MATH 8631: Harmonic Analysis II (Spring 27)
 * MATH 8421: Real Variables II (Spring 27)
+  
 * MATH 8655: General Topology (Fall 27)
 * MATH 8410: Algebra I (Fall 27)
 * MATH 8445: Partial Differential Equations I (Fall 27)
+
+* MATH 8430: Differentiable Manifolds (Spring 28)
+* MATH 8411: Algebra II (Spring 28)
+* MATH 8446: Partial Differential Equations II (Spring 28)
 
 ## Papers
 * Evaluating the Reasoning Abilities of LLMs on Underrepresented Mathematics Competition Problems (With Bani-Yaghoub, PhD, UMKC)
