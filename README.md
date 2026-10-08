@@ -19,6 +19,7 @@
 
 * MATH 8631: Harmonic Analysis II (Spring 27)
 * MATH 8421: Real Variables II (Spring 27)
+* MATH 8650: Differentiable Manifolds & Riemannian Geometry (Spring 27 [maybe])
   
 * MATH 8655: General Topology (Fall 27)
 * MATH 8410: Algebra I (Fall 27)
