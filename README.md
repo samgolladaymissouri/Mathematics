@@ -1,5 +1,5 @@
 # Mathematics
-
+Unless otherwise noted, coursework was completed at the University of Missouri - Columbia.
 ## Prior/Current Coursework
 
 ### Graduate
